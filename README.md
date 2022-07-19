@@ -1,4 +1,4 @@
-### Hi an alle,ich bin Ali Ramazan👋
+### Hi an alle, ich bin Ali Ramazan👋
 -💻 Ich arbeite derzeit an der .Net & .Net Core Programmierung
 
 -⚡Ich habe Erfahrung in C#, Asp.Net MVC, .Net Core, MS Sql, Postgresql
