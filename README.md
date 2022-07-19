@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi an alle,ich bin Ali Ramazan👋
+-⚡ Ich arbeite derzeit an der .Net & .Net Core Programmierung
+-🔭 Meine Motto ist: Hör nie auf...
 
 <!--
 **AliRamazanYildirim/AliRamazanYildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
