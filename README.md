@@ -4,7 +4,7 @@
 -⚡Ich habe Erfahrung in C#, Asp.Net MVC, .Net Core, MS Sql, Postgresql und MongoDB
 
 -🔭 Meine Motto ist: Hör nie auf...
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AliRamazanYildirim&label=Profile%20views&color=0e75b6&style=flat" alt="AliRamazanYildirim" /> </p>
 <!--
 **AliRamazanYildirim/AliRamazanYildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
