@@ -1,9 +1,17 @@
-### Hi an alle, ich bin Ali Ramazan👋
--💻 Ich arbeite derzeit an der .Net Core Programmierung
+### Hi everyone, I am Ali Ramazan👋
 
--⚡Ich habe Erfahrung in C#, Asp.Net MVC, .Net Core, MS Sql, Postgresql und MongoDB
+-💻 I am currently working on MERN Stack Development
 
--🔭 Mein Motto ist: Hör nie auf...
+```javascript
+const PROFILE = {
+    name: "Ali Ramazan Yildirim",
+    nick: "aliramazanyildirim",
+    gender: "Male",
+    hobbies: ["Coding", "Tennis", "Lego-Robotics", "Fishing"],
+};
+```
+
+-🔭 My motto is: Never stop...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliRamazanYildirim&label=Profile%20views&color=0e75b6&style=flat" alt="AliRamazanYildirim" /> </p>
 <!--
 **AliRamazanYildirim/AliRamazanYildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
